@@ -1,0 +1,1468 @@
+2015-08-27 18:39:05,379 - [DEBUG] - from org.springframework.validation.DataBinder in main
+				
+DataBinder requires binding of required fields [sentenceModelPath,sentenceTypeName]
+
+2015-08-27 18:39:05,725 - [INFO] - from org.deeplearning4j.text.invertedindex.LuceneInvertedIndex in main
+				
+Creating directory word2vec-index
+
+2015-08-27 18:39:05,740 - [INFO] - from org.deeplearning4j.text.invertedindex.LuceneInvertedIndex in main
+				
+Creating new index writer
+
+2015-08-27 18:39:05,741 - [INFO] - from org.deeplearning4j.text.invertedindex.LuceneInvertedIndex in main
+				
+Creating directory word2vec-index
+
+2015-08-27 18:39:06,823 - [INFO] - from org.deeplearning4j.bagofwords.vectorizer.BaseTextVectorizer in main
+				
+Invoking finish on index
+
+2015-08-27 18:39:06,824 - [INFO] - from org.deeplearning4j.models.word2vec.Word2Vec in main
+				
+Building binary tree
+
+2015-08-27 18:39:06,824 - [INFO] - from org.deeplearning4j.models.word2vec.Word2Vec in main
+				
+Constructing priority queue
+
+2015-08-27 18:39:06,824 - [INFO] - from org.deeplearning4j.models.word2vec.Word2Vec in main
+				
+Built tree
+
+2015-08-27 18:39:06,825 - [INFO] - from org.deeplearning4j.models.word2vec.Word2Vec in main
+				
+Resetting weights
+
+2015-08-27 18:39:06,840 - [INFO] - from org.deeplearning4j.models.word2vec.Word2Vec in main
+				
+Training word2vec multithreaded
+
+2015-08-27 18:39:24,906 - [DEBUG] - from org.springframework.validation.DataBinder in main
+				
+DataBinder requires binding of required fields [sentenceModelPath,sentenceTypeName]
+
+2015-08-27 18:39:25,242 - [WARN] - from org.deeplearning4j.text.invertedindex.LuceneInvertedIndex in main
+				
+Changing index path to7ac58c78-8dd0-485c-97f2-a26f675d96ea
+
+2015-08-27 18:39:25,242 - [INFO] - from org.deeplearning4j.text.invertedindex.LuceneInvertedIndex in main
+				
+Creating directory word2vec-index
+
+2015-08-27 18:39:25,257 - [INFO] - from org.deeplearning4j.text.invertedindex.LuceneInvertedIndex in main
+				
+Creating new index writer
+
+2015-08-27 18:39:25,257 - [INFO] - from org.deeplearning4j.text.invertedindex.LuceneInvertedIndex in main
+				
+Creating directory word2vec-index
+
+2015-08-27 18:39:26,131 - [INFO] - from org.deeplearning4j.bagofwords.vectorizer.BaseTextVectorizer in main
+				
+Invoking finish on index
+
+2015-08-27 18:39:26,132 - [INFO] - from org.deeplearning4j.models.word2vec.Word2Vec in main
+				
+Building binary tree
+
+2015-08-27 18:39:26,132 - [INFO] - from org.deeplearning4j.models.word2vec.Word2Vec in main
+				
+Constructing priority queue
+
+2015-08-27 18:39:26,133 - [INFO] - from org.deeplearning4j.models.word2vec.Word2Vec in main
+				
+Built tree
+
+2015-08-27 18:39:26,133 - [INFO] - from org.deeplearning4j.models.word2vec.Word2Vec in main
+				
+Resetting weights
+
+2015-08-27 18:39:26,146 - [INFO] - from org.deeplearning4j.models.word2vec.Word2Vec in main
+				
+Training word2vec multithreaded
+
+2015-08-27 18:40:45,671 - [DEBUG] - from org.springframework.validation.DataBinder in main
+				
+DataBinder requires binding of required fields [sentenceModelPath,sentenceTypeName]
+
+2015-08-27 18:40:45,987 - [WARN] - from org.deeplearning4j.text.invertedindex.LuceneInvertedIndex in main
+				
+Changing index path tobfb504e8-3927-4756-a827-4a7c54555a61
+
+2015-08-27 18:40:45,987 - [INFO] - from org.deeplearning4j.text.invertedindex.LuceneInvertedIndex in main
+				
+Creating directory word2vec-index
+
+2015-08-27 18:40:46,001 - [INFO] - from org.deeplearning4j.text.invertedindex.LuceneInvertedIndex in main
+				
+Creating new index writer
+
+2015-08-27 18:40:46,001 - [INFO] - from org.deeplearning4j.text.invertedindex.LuceneInvertedIndex in main
+				
+Creating directory word2vec-index
+
+2015-08-27 18:40:46,818 - [INFO] - from org.deeplearning4j.bagofwords.vectorizer.BaseTextVectorizer in main
+				
+Invoking finish on index
+
+2015-08-27 18:40:46,819 - [INFO] - from org.deeplearning4j.models.word2vec.Word2Vec in main
+				
+Building binary tree
+
+2015-08-27 18:40:46,819 - [INFO] - from org.deeplearning4j.models.word2vec.Word2Vec in main
+				
+Constructing priority queue
+
+2015-08-27 18:40:46,819 - [INFO] - from org.deeplearning4j.models.word2vec.Word2Vec in main
+				
+Built tree
+
+2015-08-27 18:40:46,819 - [INFO] - from org.deeplearning4j.models.word2vec.Word2Vec in main
+				
+Resetting weights
+
+2015-08-27 18:40:46,836 - [INFO] - from org.deeplearning4j.models.word2vec.Word2Vec in main
+				
+Training word2vec multithreaded
+
+2015-08-27 18:41:15,817 - [DEBUG] - from org.springframework.validation.DataBinder in main
+				
+DataBinder requires binding of required fields [sentenceModelPath,sentenceTypeName]
+
+2015-08-27 18:41:15,936 - [DEBUG] - from org.springframework.validation.DataBinder in main
+				
+DataBinder requires binding of required fields [rootFile]
+
+2015-08-27 18:41:16,125 - [WARN] - from org.deeplearning4j.text.invertedindex.LuceneInvertedIndex in main
+				
+Changing index path to886c9cef-5bd5-49ba-8f39-53c3614f9bd5
+
+2015-08-27 18:41:16,126 - [INFO] - from org.deeplearning4j.text.invertedindex.LuceneInvertedIndex in main
+				
+Creating directory word2vec-index
+
+2015-08-27 18:41:16,140 - [INFO] - from org.deeplearning4j.text.invertedindex.LuceneInvertedIndex in main
+				
+Creating new index writer
+
+2015-08-27 18:41:16,140 - [INFO] - from org.deeplearning4j.text.invertedindex.LuceneInvertedIndex in main
+				
+Creating directory word2vec-index
+
+2015-08-27 18:41:27,160 - [INFO] - from org.deeplearning4j.bagofwords.vectorizer.BaseTextVectorizer in main
+				
+latch count 8 with queued 8
+
+2015-08-27 18:41:27,161 - [INFO] - from org.deeplearning4j.bagofwords.vectorizer.BaseTextVectorizer in main
+				
+Invoking finish on index
+
+2015-08-27 18:41:27,421 - [INFO] - from org.deeplearning4j.models.word2vec.Word2Vec in main
+				
+Building binary tree
+
+2015-08-27 18:41:27,421 - [INFO] - from org.deeplearning4j.models.word2vec.Word2Vec in main
+				
+Constructing priority queue
+
+2015-08-27 18:41:27,421 - [INFO] - from org.deeplearning4j.models.word2vec.Word2Vec in main
+				
+Built tree
+
+2015-08-27 18:41:27,422 - [INFO] - from org.deeplearning4j.models.word2vec.Word2Vec in main
+				
+Resetting weights
+
+2015-08-27 18:41:27,443 - [INFO] - from org.deeplearning4j.models.word2vec.Word2Vec in main
+				
+Training word2vec multithreaded
+
+2015-08-27 18:41:27,447 - [DEBUG] - from org.springframework.validation.DataBinder in main
+				
+DataBinder requires binding of required fields [rootFile]
+
+2015-08-27 18:41:27,455 - [INFO] - from org.deeplearning4j.models.word2vec.Word2Vec in main
+				
+Processing sentences...
+
+2015-08-27 18:41:27,565 - [INFO] - from org.deeplearning4j.models.embeddings.loader.WordVectorSerializer in main
+				
+Wrote 6 with size of 100
+
+2015-08-27 18:42:31,803 - [DEBUG] - from org.springframework.validation.DataBinder in main
+				
+DataBinder requires binding of required fields [sentenceModelPath,sentenceTypeName]
+
+2015-08-27 18:42:31,926 - [DEBUG] - from org.springframework.validation.DataBinder in main
+				
+DataBinder requires binding of required fields [rootFile]
+
+2015-08-27 18:42:32,093 - [WARN] - from org.deeplearning4j.text.invertedindex.LuceneInvertedIndex in main
+				
+Changing index path toe71c7c71-ccdb-49d1-a634-781cc8d9f9b4
+
+2015-08-27 18:42:32,093 - [INFO] - from org.deeplearning4j.text.invertedindex.LuceneInvertedIndex in main
+				
+Creating directory word2vec-index
+
+2015-08-27 18:42:32,107 - [INFO] - from org.deeplearning4j.text.invertedindex.LuceneInvertedIndex in main
+				
+Creating new index writer
+
+2015-08-27 18:42:32,108 - [INFO] - from org.deeplearning4j.text.invertedindex.LuceneInvertedIndex in main
+				
+Creating directory word2vec-index
+
+2015-08-27 18:42:43,101 - [INFO] - from org.deeplearning4j.bagofwords.vectorizer.BaseTextVectorizer in main
+				
+latch count 8 with queued 8
+
+2015-08-27 18:42:43,101 - [INFO] - from org.deeplearning4j.bagofwords.vectorizer.BaseTextVectorizer in main
+				
+Invoking finish on index
+
+2015-08-27 18:42:43,369 - [INFO] - from org.deeplearning4j.models.word2vec.Word2Vec in main
+				
+Building binary tree
+
+2015-08-27 18:42:43,370 - [INFO] - from org.deeplearning4j.models.word2vec.Word2Vec in main
+				
+Constructing priority queue
+
+2015-08-27 18:42:43,370 - [INFO] - from org.deeplearning4j.models.word2vec.Word2Vec in main
+				
+Built tree
+
+2015-08-27 18:42:43,370 - [INFO] - from org.deeplearning4j.models.word2vec.Word2Vec in main
+				
+Resetting weights
+
+2015-08-27 18:42:43,388 - [INFO] - from org.deeplearning4j.models.word2vec.Word2Vec in main
+				
+Training word2vec multithreaded
+
+2015-08-27 18:42:43,392 - [DEBUG] - from org.springframework.validation.DataBinder in main
+				
+DataBinder requires binding of required fields [rootFile]
+
+2015-08-27 18:42:43,401 - [INFO] - from org.deeplearning4j.models.word2vec.Word2Vec in main
+				
+Processing sentences...
+
+2015-08-27 18:42:43,519 - [INFO] - from org.deeplearning4j.models.embeddings.loader.WordVectorSerializer in main
+				
+Wrote 6 with size of 100
+
+2015-08-27 18:43:50,365 - [DEBUG] - from org.springframework.validation.DataBinder in main
+				
+DataBinder requires binding of required fields [sentenceModelPath,sentenceTypeName]
+
+2015-08-27 18:43:50,481 - [DEBUG] - from org.springframework.validation.DataBinder in main
+				
+DataBinder requires binding of required fields [rootFile]
+
+2015-08-27 18:43:50,653 - [WARN] - from org.deeplearning4j.text.invertedindex.LuceneInvertedIndex in main
+				
+Changing index path to4a48a951-7356-4c95-b07f-ab603cef30f2
+
+2015-08-27 18:43:50,654 - [INFO] - from org.deeplearning4j.text.invertedindex.LuceneInvertedIndex in main
+				
+Creating directory word2vec-index
+
+2015-08-27 18:43:50,668 - [INFO] - from org.deeplearning4j.text.invertedindex.LuceneInvertedIndex in main
+				
+Creating new index writer
+
+2015-08-27 18:43:50,668 - [INFO] - from org.deeplearning4j.text.invertedindex.LuceneInvertedIndex in main
+				
+Creating directory word2vec-index
+
+2015-08-27 18:44:01,482 - [INFO] - from org.deeplearning4j.bagofwords.vectorizer.BaseTextVectorizer in main
+				
+latch count 9 with queued 9
+
+2015-08-27 18:44:01,482 - [INFO] - from org.deeplearning4j.bagofwords.vectorizer.BaseTextVectorizer in main
+				
+Invoking finish on index
+
+2015-08-27 18:44:01,748 - [INFO] - from org.deeplearning4j.models.word2vec.Word2Vec in main
+				
+Building binary tree
+
+2015-08-27 18:44:01,748 - [INFO] - from org.deeplearning4j.models.word2vec.Word2Vec in main
+				
+Constructing priority queue
+
+2015-08-27 18:44:01,748 - [INFO] - from org.deeplearning4j.models.word2vec.Word2Vec in main
+				
+Built tree
+
+2015-08-27 18:44:01,749 - [INFO] - from org.deeplearning4j.models.word2vec.Word2Vec in main
+				
+Resetting weights
+
+2015-08-27 18:44:01,769 - [INFO] - from org.deeplearning4j.models.word2vec.Word2Vec in main
+				
+Training word2vec multithreaded
+
+2015-08-27 18:44:01,772 - [DEBUG] - from org.springframework.validation.DataBinder in main
+				
+DataBinder requires binding of required fields [rootFile]
+
+2015-08-27 18:44:01,779 - [INFO] - from org.deeplearning4j.models.word2vec.Word2Vec in main
+				
+Processing sentences...
+
+2015-08-27 18:44:01,898 - [INFO] - from org.deeplearning4j.models.embeddings.loader.WordVectorSerializer in main
+				
+Wrote 7 with size of 100
+
+2015-08-27 18:45:06,884 - [DEBUG] - from org.springframework.validation.DataBinder in main
+				
+DataBinder requires binding of required fields [sentenceModelPath,sentenceTypeName]
+
+2015-08-27 18:45:06,998 - [DEBUG] - from org.springframework.validation.DataBinder in main
+				
+DataBinder requires binding of required fields [rootFile]
+
+2015-08-27 18:45:07,172 - [WARN] - from org.deeplearning4j.text.invertedindex.LuceneInvertedIndex in main
+				
+Changing index path to2a180a1c-74be-428d-98cb-f7c9a6798f88
+
+2015-08-27 18:45:07,172 - [INFO] - from org.deeplearning4j.text.invertedindex.LuceneInvertedIndex in main
+				
+Creating directory word2vec-index
+
+2015-08-27 18:45:07,186 - [INFO] - from org.deeplearning4j.text.invertedindex.LuceneInvertedIndex in main
+				
+Creating new index writer
+
+2015-08-27 18:45:07,186 - [INFO] - from org.deeplearning4j.text.invertedindex.LuceneInvertedIndex in main
+				
+Creating directory word2vec-index
+
+2015-08-27 18:45:17,963 - [INFO] - from org.deeplearning4j.bagofwords.vectorizer.BaseTextVectorizer in main
+				
+latch count 9 with queued 9
+
+2015-08-27 18:45:17,964 - [INFO] - from org.deeplearning4j.bagofwords.vectorizer.BaseTextVectorizer in main
+				
+Invoking finish on index
+
+2015-08-27 18:45:18,245 - [INFO] - from org.deeplearning4j.models.word2vec.Word2Vec in main
+				
+Building binary tree
+
+2015-08-27 18:45:18,245 - [INFO] - from org.deeplearning4j.models.word2vec.Word2Vec in main
+				
+Constructing priority queue
+
+2015-08-27 18:45:18,246 - [INFO] - from org.deeplearning4j.models.word2vec.Word2Vec in main
+				
+Built tree
+
+2015-08-27 18:45:18,246 - [INFO] - from org.deeplearning4j.models.word2vec.Word2Vec in main
+				
+Resetting weights
+
+2015-08-27 18:45:18,263 - [INFO] - from org.deeplearning4j.models.word2vec.Word2Vec in main
+				
+Training word2vec multithreaded
+
+2015-08-27 18:45:18,266 - [DEBUG] - from org.springframework.validation.DataBinder in main
+				
+DataBinder requires binding of required fields [rootFile]
+
+2015-08-27 18:45:18,274 - [INFO] - from org.deeplearning4j.models.word2vec.Word2Vec in main
+				
+Processing sentences...
+
+2015-08-27 18:45:18,375 - [INFO] - from org.deeplearning4j.models.embeddings.loader.WordVectorSerializer in main
+				
+Wrote 8 with size of 100
+
+2015-08-27 18:46:44,399 - [DEBUG] - from org.springframework.validation.DataBinder in main
+				
+DataBinder requires binding of required fields [sentenceModelPath,sentenceTypeName]
+
+2015-08-27 18:46:44,515 - [DEBUG] - from org.springframework.validation.DataBinder in main
+				
+DataBinder requires binding of required fields [rootFile]
+
+2015-08-27 18:46:44,700 - [WARN] - from org.deeplearning4j.text.invertedindex.LuceneInvertedIndex in main
+				
+Changing index path to1f2aa700-37b2-4c04-a3b4-f020885bed59
+
+2015-08-27 18:46:44,700 - [INFO] - from org.deeplearning4j.text.invertedindex.LuceneInvertedIndex in main
+				
+Creating directory word2vec-index
+
+2015-08-27 18:46:44,714 - [INFO] - from org.deeplearning4j.text.invertedindex.LuceneInvertedIndex in main
+				
+Creating new index writer
+
+2015-08-27 18:46:44,715 - [INFO] - from org.deeplearning4j.text.invertedindex.LuceneInvertedIndex in main
+				
+Creating directory word2vec-index
+
+2015-08-27 18:46:55,527 - [INFO] - from org.deeplearning4j.bagofwords.vectorizer.BaseTextVectorizer in main
+				
+latch count 13 with queued 13
+
+2015-08-27 18:46:55,527 - [INFO] - from org.deeplearning4j.bagofwords.vectorizer.BaseTextVectorizer in main
+				
+Invoking finish on index
+
+2015-08-27 18:46:55,789 - [INFO] - from org.deeplearning4j.models.word2vec.Word2Vec in main
+				
+Building binary tree
+
+2015-08-27 18:46:55,789 - [INFO] - from org.deeplearning4j.models.word2vec.Word2Vec in main
+				
+Constructing priority queue
+
+2015-08-27 18:46:55,790 - [INFO] - from org.deeplearning4j.models.word2vec.Word2Vec in main
+				
+Built tree
+
+2015-08-27 18:46:55,790 - [INFO] - from org.deeplearning4j.models.word2vec.Word2Vec in main
+				
+Resetting weights
+
+2015-08-27 18:46:55,806 - [INFO] - from org.deeplearning4j.models.word2vec.Word2Vec in main
+				
+Training word2vec multithreaded
+
+2015-08-27 18:46:55,810 - [DEBUG] - from org.springframework.validation.DataBinder in main
+				
+DataBinder requires binding of required fields [rootFile]
+
+2015-08-27 18:46:55,820 - [INFO] - from org.deeplearning4j.models.word2vec.Word2Vec in main
+				
+Processing sentences...
+
+2015-08-27 18:46:55,928 - [INFO] - from org.deeplearning4j.models.embeddings.loader.WordVectorSerializer in main
+				
+Wrote 9 with size of 100
+
+2015-08-27 20:49:01,196 - [DEBUG] - from org.springframework.validation.DataBinder in main
+				
+DataBinder requires binding of required fields [sentenceModelPath,sentenceTypeName]
+
+2015-08-27 20:49:01,359 - [DEBUG] - from org.springframework.validation.DataBinder in main
+				
+DataBinder requires binding of required fields [rootFile]
+
+2015-08-27 20:49:01,645 - [WARN] - from org.deeplearning4j.text.invertedindex.LuceneInvertedIndex in main
+				
+Changing index path tob83ac218-fcdd-4899-86cb-8583de587080
+
+2015-08-27 20:49:01,645 - [INFO] - from org.deeplearning4j.text.invertedindex.LuceneInvertedIndex in main
+				
+Creating directory word2vec-index
+
+2015-08-27 20:49:01,667 - [INFO] - from org.deeplearning4j.text.invertedindex.LuceneInvertedIndex in main
+				
+Creating new index writer
+
+2015-08-27 20:49:01,667 - [INFO] - from org.deeplearning4j.text.invertedindex.LuceneInvertedIndex in main
+				
+Creating directory word2vec-index
+
+2015-08-27 20:49:12,669 - [INFO] - from org.deeplearning4j.bagofwords.vectorizer.BaseTextVectorizer in main
+				
+latch count 13 with queued 13
+
+2015-08-27 20:49:12,670 - [INFO] - from org.deeplearning4j.bagofwords.vectorizer.BaseTextVectorizer in main
+				
+Invoking finish on index
+
+2015-08-27 20:49:12,913 - [INFO] - from org.deeplearning4j.models.word2vec.Word2Vec in main
+				
+Building binary tree
+
+2015-08-27 20:49:12,913 - [INFO] - from org.deeplearning4j.models.word2vec.Word2Vec in main
+				
+Constructing priority queue
+
+2015-08-27 20:49:12,914 - [INFO] - from org.deeplearning4j.models.word2vec.Word2Vec in main
+				
+Built tree
+
+2015-08-27 20:49:12,914 - [INFO] - from org.deeplearning4j.models.word2vec.Word2Vec in main
+				
+Resetting weights
+
+2015-08-27 20:49:12,930 - [INFO] - from org.deeplearning4j.models.word2vec.Word2Vec in main
+				
+Training word2vec multithreaded
+
+2015-08-27 20:49:12,933 - [DEBUG] - from org.springframework.validation.DataBinder in main
+				
+DataBinder requires binding of required fields [rootFile]
+
+2015-08-27 20:49:12,940 - [INFO] - from org.deeplearning4j.models.word2vec.Word2Vec in main
+				
+Processing sentences...
+
+2015-08-27 20:49:13,028 - [INFO] - from org.deeplearning4j.models.embeddings.loader.WordVectorSerializer in main
+				
+Wrote 9 with size of 100
+
+2015-08-27 20:51:36,224 - [DEBUG] - from org.springframework.validation.DataBinder in main
+				
+DataBinder requires binding of required fields [sentenceModelPath,sentenceTypeName]
+
+2015-08-27 20:51:36,346 - [DEBUG] - from org.springframework.validation.DataBinder in main
+				
+DataBinder requires binding of required fields [rootFile]
+
+2015-08-27 20:51:36,519 - [WARN] - from org.deeplearning4j.text.invertedindex.LuceneInvertedIndex in main
+				
+Changing index path tocf978aa6-d6aa-44d2-a7ba-596c10f543c1
+
+2015-08-27 20:51:36,519 - [INFO] - from org.deeplearning4j.text.invertedindex.LuceneInvertedIndex in main
+				
+Creating directory word2vec-index
+
+2015-08-27 20:51:36,533 - [INFO] - from org.deeplearning4j.text.invertedindex.LuceneInvertedIndex in main
+				
+Creating new index writer
+
+2015-08-27 20:51:36,533 - [INFO] - from org.deeplearning4j.text.invertedindex.LuceneInvertedIndex in main
+				
+Creating directory word2vec-index
+
+2015-08-27 20:51:47,616 - [INFO] - from org.deeplearning4j.bagofwords.vectorizer.BaseTextVectorizer in main
+				
+latch count 790 with queued 790
+
+2015-08-27 20:51:47,616 - [INFO] - from org.deeplearning4j.bagofwords.vectorizer.BaseTextVectorizer in main
+				
+Invoking finish on index
+
+2015-08-27 20:51:47,903 - [INFO] - from org.deeplearning4j.models.word2vec.Word2Vec in main
+				
+Building binary tree
+
+2015-08-27 20:51:47,903 - [INFO] - from org.deeplearning4j.models.word2vec.Word2Vec in main
+				
+Constructing priority queue
+
+2015-08-27 20:51:47,904 - [INFO] - from org.deeplearning4j.models.word2vec.Word2Vec in main
+				
+Built tree
+
+2015-08-27 20:51:47,904 - [INFO] - from org.deeplearning4j.models.word2vec.Word2Vec in main
+				
+Resetting weights
+
+2015-08-27 20:51:47,953 - [INFO] - from org.deeplearning4j.models.word2vec.Word2Vec in main
+				
+Training word2vec multithreaded
+
+2015-08-27 20:51:47,955 - [DEBUG] - from org.springframework.validation.DataBinder in main
+				
+DataBinder requires binding of required fields [rootFile]
+
+2015-08-27 20:51:47,961 - [INFO] - from org.deeplearning4j.models.word2vec.Word2Vec in main
+				
+Processing sentences...
+
+2015-08-27 20:51:48,532 - [INFO] - from org.deeplearning4j.models.embeddings.loader.WordVectorSerializer in main
+				
+Wrote 147 with size of 100
+
+2015-08-27 20:53:53,687 - [DEBUG] - from org.springframework.validation.DataBinder in main
+				
+DataBinder requires binding of required fields [sentenceModelPath,sentenceTypeName]
+
+2015-08-27 20:53:53,804 - [DEBUG] - from org.springframework.validation.DataBinder in main
+				
+DataBinder requires binding of required fields [rootFile]
+
+2015-08-27 20:53:53,979 - [WARN] - from org.deeplearning4j.text.invertedindex.LuceneInvertedIndex in main
+				
+Changing index path to9fe851b5-34ef-482f-af8b-8a8e88942f02
+
+2015-08-27 20:53:53,979 - [INFO] - from org.deeplearning4j.text.invertedindex.LuceneInvertedIndex in main
+				
+Creating directory word2vec-index
+
+2015-08-27 20:53:53,994 - [INFO] - from org.deeplearning4j.text.invertedindex.LuceneInvertedIndex in main
+				
+Creating new index writer
+
+2015-08-27 20:53:53,994 - [INFO] - from org.deeplearning4j.text.invertedindex.LuceneInvertedIndex in main
+				
+Creating directory word2vec-index
+
+2015-08-27 20:54:04,934 - [INFO] - from org.deeplearning4j.bagofwords.vectorizer.BaseTextVectorizer in main
+				
+latch count 790 with queued 790
+
+2015-08-27 20:54:04,934 - [INFO] - from org.deeplearning4j.bagofwords.vectorizer.BaseTextVectorizer in main
+				
+Invoking finish on index
+
+2015-08-27 20:54:05,202 - [INFO] - from org.deeplearning4j.models.word2vec.Word2Vec in main
+				
+Building binary tree
+
+2015-08-27 20:54:05,202 - [INFO] - from org.deeplearning4j.models.word2vec.Word2Vec in main
+				
+Constructing priority queue
+
+2015-08-27 20:54:05,203 - [INFO] - from org.deeplearning4j.models.word2vec.Word2Vec in main
+				
+Built tree
+
+2015-08-27 20:54:05,203 - [INFO] - from org.deeplearning4j.models.word2vec.Word2Vec in main
+				
+Resetting weights
+
+2015-08-27 20:54:05,264 - [INFO] - from org.deeplearning4j.models.word2vec.Word2Vec in main
+				
+Training word2vec multithreaded
+
+2015-08-27 20:54:05,267 - [DEBUG] - from org.springframework.validation.DataBinder in main
+				
+DataBinder requires binding of required fields [rootFile]
+
+2015-08-27 20:54:05,273 - [INFO] - from org.deeplearning4j.models.word2vec.Word2Vec in main
+				
+Processing sentences...
+
+2015-08-27 20:54:05,801 - [INFO] - from org.deeplearning4j.models.embeddings.loader.WordVectorSerializer in main
+				
+Wrote 147 with size of 100
+
+2015-08-27 20:57:09,168 - [DEBUG] - from org.springframework.validation.DataBinder in main
+				
+DataBinder requires binding of required fields [sentenceModelPath,sentenceTypeName]
+
+2015-08-27 20:57:09,282 - [DEBUG] - from org.springframework.validation.DataBinder in main
+				
+DataBinder requires binding of required fields [rootFile]
+
+2015-08-27 20:57:09,456 - [WARN] - from org.deeplearning4j.text.invertedindex.LuceneInvertedIndex in main
+				
+Changing index path to57b174f6-8061-4f70-a7a4-715208213362
+
+2015-08-27 20:57:09,456 - [INFO] - from org.deeplearning4j.text.invertedindex.LuceneInvertedIndex in main
+				
+Creating directory word2vec-index
+
+2015-08-27 20:57:09,470 - [INFO] - from org.deeplearning4j.text.invertedindex.LuceneInvertedIndex in main
+				
+Creating new index writer
+
+2015-08-27 20:57:09,471 - [INFO] - from org.deeplearning4j.text.invertedindex.LuceneInvertedIndex in main
+				
+Creating directory word2vec-index
+
+2015-08-27 20:57:20,396 - [INFO] - from org.deeplearning4j.bagofwords.vectorizer.BaseTextVectorizer in main
+				
+latch count 790 with queued 790
+
+2015-08-27 20:57:20,397 - [INFO] - from org.deeplearning4j.bagofwords.vectorizer.BaseTextVectorizer in main
+				
+Invoking finish on index
+
+2015-08-27 20:57:20,674 - [INFO] - from org.deeplearning4j.models.word2vec.Word2Vec in main
+				
+Building binary tree
+
+2015-08-27 20:57:20,674 - [INFO] - from org.deeplearning4j.models.word2vec.Word2Vec in main
+				
+Constructing priority queue
+
+2015-08-27 20:57:20,675 - [INFO] - from org.deeplearning4j.models.word2vec.Word2Vec in main
+				
+Built tree
+
+2015-08-27 20:57:20,675 - [INFO] - from org.deeplearning4j.models.word2vec.Word2Vec in main
+				
+Resetting weights
+
+2015-08-27 20:57:20,723 - [INFO] - from org.deeplearning4j.models.word2vec.Word2Vec in main
+				
+Training word2vec multithreaded
+
+2015-08-27 20:57:20,726 - [DEBUG] - from org.springframework.validation.DataBinder in main
+				
+DataBinder requires binding of required fields [rootFile]
+
+2015-08-27 20:57:20,733 - [INFO] - from org.deeplearning4j.models.word2vec.Word2Vec in main
+				
+Processing sentences...
+
+2015-08-27 20:57:21,229 - [INFO] - from org.deeplearning4j.models.embeddings.loader.WordVectorSerializer in main
+				
+Wrote 147 with size of 100
+
+2015-08-27 20:58:49,130 - [DEBUG] - from org.springframework.validation.DataBinder in main
+				
+DataBinder requires binding of required fields [sentenceModelPath,sentenceTypeName]
+
+2015-08-27 20:58:49,255 - [DEBUG] - from org.springframework.validation.DataBinder in main
+				
+DataBinder requires binding of required fields [rootFile]
+
+2015-08-27 20:58:49,429 - [WARN] - from org.deeplearning4j.text.invertedindex.LuceneInvertedIndex in main
+				
+Changing index path to82c487da-e1cb-4c6b-bae2-8dfb485366ea
+
+2015-08-27 20:58:49,429 - [INFO] - from org.deeplearning4j.text.invertedindex.LuceneInvertedIndex in main
+				
+Creating directory word2vec-index
+
+2015-08-27 20:58:49,443 - [INFO] - from org.deeplearning4j.text.invertedindex.LuceneInvertedIndex in main
+				
+Creating new index writer
+
+2015-08-27 20:58:49,443 - [INFO] - from org.deeplearning4j.text.invertedindex.LuceneInvertedIndex in main
+				
+Creating directory word2vec-index
+
+2015-08-27 20:59:00,475 - [INFO] - from org.deeplearning4j.bagofwords.vectorizer.BaseTextVectorizer in main
+				
+latch count 790 with queued 790
+
+2015-08-27 20:59:00,476 - [INFO] - from org.deeplearning4j.bagofwords.vectorizer.BaseTextVectorizer in main
+				
+Invoking finish on index
+
+2015-08-27 20:59:00,805 - [INFO] - from org.deeplearning4j.models.word2vec.Word2Vec in main
+				
+Building binary tree
+
+2015-08-27 20:59:00,806 - [INFO] - from org.deeplearning4j.models.word2vec.Word2Vec in main
+				
+Constructing priority queue
+
+2015-08-27 20:59:00,807 - [INFO] - from org.deeplearning4j.models.word2vec.Word2Vec in main
+				
+Built tree
+
+2015-08-27 20:59:00,807 - [INFO] - from org.deeplearning4j.models.word2vec.Word2Vec in main
+				
+Resetting weights
+
+2015-08-27 20:59:00,854 - [INFO] - from org.deeplearning4j.models.word2vec.Word2Vec in main
+				
+Training word2vec multithreaded
+
+2015-08-27 20:59:00,857 - [DEBUG] - from org.springframework.validation.DataBinder in main
+				
+DataBinder requires binding of required fields [rootFile]
+
+2015-08-27 20:59:00,864 - [INFO] - from org.deeplearning4j.models.word2vec.Word2Vec in main
+				
+Processing sentences...
+
+2015-08-27 20:59:01,346 - [INFO] - from org.deeplearning4j.models.embeddings.loader.WordVectorSerializer in main
+				
+Wrote 147 with size of 100
+
+2015-08-27 21:00:09,466 - [DEBUG] - from org.springframework.validation.DataBinder in main
+				
+DataBinder requires binding of required fields [sentenceModelPath,sentenceTypeName]
+
+2015-08-27 21:00:09,575 - [DEBUG] - from org.springframework.validation.DataBinder in main
+				
+DataBinder requires binding of required fields [rootFile]
+
+2015-08-27 21:00:09,747 - [WARN] - from org.deeplearning4j.text.invertedindex.LuceneInvertedIndex in main
+				
+Changing index path toa272184f-e1ac-4145-a84e-7232e5391257
+
+2015-08-27 21:00:09,747 - [INFO] - from org.deeplearning4j.text.invertedindex.LuceneInvertedIndex in main
+				
+Creating directory word2vec-index
+
+2015-08-27 21:00:09,761 - [INFO] - from org.deeplearning4j.text.invertedindex.LuceneInvertedIndex in main
+				
+Creating new index writer
+
+2015-08-27 21:00:09,761 - [INFO] - from org.deeplearning4j.text.invertedindex.LuceneInvertedIndex in main
+				
+Creating directory word2vec-index
+
+2015-08-27 21:00:20,765 - [INFO] - from org.deeplearning4j.bagofwords.vectorizer.BaseTextVectorizer in main
+				
+latch count 790 with queued 790
+
+2015-08-27 21:00:20,765 - [INFO] - from org.deeplearning4j.bagofwords.vectorizer.BaseTextVectorizer in main
+				
+Invoking finish on index
+
+2015-08-27 21:00:21,034 - [INFO] - from org.deeplearning4j.models.word2vec.Word2Vec in main
+				
+Building binary tree
+
+2015-08-27 21:00:21,034 - [INFO] - from org.deeplearning4j.models.word2vec.Word2Vec in main
+				
+Constructing priority queue
+
+2015-08-27 21:00:21,035 - [INFO] - from org.deeplearning4j.models.word2vec.Word2Vec in main
+				
+Built tree
+
+2015-08-27 21:00:21,035 - [INFO] - from org.deeplearning4j.models.word2vec.Word2Vec in main
+				
+Resetting weights
+
+2015-08-27 21:00:21,094 - [INFO] - from org.deeplearning4j.models.word2vec.Word2Vec in main
+				
+Training word2vec multithreaded
+
+2015-08-27 21:00:21,096 - [DEBUG] - from org.springframework.validation.DataBinder in main
+				
+DataBinder requires binding of required fields [rootFile]
+
+2015-08-27 21:00:21,103 - [INFO] - from org.deeplearning4j.models.word2vec.Word2Vec in main
+				
+Processing sentences...
+
+2015-08-27 21:00:21,629 - [INFO] - from org.deeplearning4j.models.embeddings.loader.WordVectorSerializer in main
+				
+Wrote 147 with size of 100
+
+2015-08-27 21:01:07,950 - [DEBUG] - from org.springframework.validation.DataBinder in main
+				
+DataBinder requires binding of required fields [sentenceModelPath,sentenceTypeName]
+
+2015-08-27 21:01:08,072 - [DEBUG] - from org.springframework.validation.DataBinder in main
+				
+DataBinder requires binding of required fields [rootFile]
+
+2015-08-27 21:01:08,253 - [WARN] - from org.deeplearning4j.text.invertedindex.LuceneInvertedIndex in main
+				
+Changing index path to8b917688-9d3f-4705-b346-d71c690fdb3f
+
+2015-08-27 21:01:08,253 - [INFO] - from org.deeplearning4j.text.invertedindex.LuceneInvertedIndex in main
+				
+Creating directory word2vec-index
+
+2015-08-27 21:01:08,267 - [INFO] - from org.deeplearning4j.text.invertedindex.LuceneInvertedIndex in main
+				
+Creating new index writer
+
+2015-08-27 21:01:08,267 - [INFO] - from org.deeplearning4j.text.invertedindex.LuceneInvertedIndex in main
+				
+Creating directory word2vec-index
+
+2015-08-27 21:01:19,187 - [INFO] - from org.deeplearning4j.bagofwords.vectorizer.BaseTextVectorizer in main
+				
+latch count 790 with queued 790
+
+2015-08-27 21:01:19,187 - [INFO] - from org.deeplearning4j.bagofwords.vectorizer.BaseTextVectorizer in main
+				
+Invoking finish on index
+
+2015-08-27 21:01:19,462 - [INFO] - from org.deeplearning4j.models.word2vec.Word2Vec in main
+				
+Building binary tree
+
+2015-08-27 21:01:19,462 - [INFO] - from org.deeplearning4j.models.word2vec.Word2Vec in main
+				
+Constructing priority queue
+
+2015-08-27 21:01:19,463 - [INFO] - from org.deeplearning4j.models.word2vec.Word2Vec in main
+				
+Built tree
+
+2015-08-27 21:01:19,463 - [INFO] - from org.deeplearning4j.models.word2vec.Word2Vec in main
+				
+Resetting weights
+
+2015-08-27 21:01:19,531 - [INFO] - from org.deeplearning4j.models.word2vec.Word2Vec in main
+				
+Training word2vec multithreaded
+
+2015-08-27 21:01:19,534 - [DEBUG] - from org.springframework.validation.DataBinder in main
+				
+DataBinder requires binding of required fields [rootFile]
+
+2015-08-27 21:01:19,540 - [INFO] - from org.deeplearning4j.models.word2vec.Word2Vec in main
+				
+Processing sentences...
+
+2015-08-27 21:01:20,087 - [INFO] - from org.deeplearning4j.models.embeddings.loader.WordVectorSerializer in main
+				
+Wrote 147 with size of 100
+
+2015-08-27 21:02:42,000 - [DEBUG] - from org.springframework.validation.DataBinder in main
+				
+DataBinder requires binding of required fields [sentenceModelPath,sentenceTypeName]
+
+2015-08-27 21:02:42,126 - [DEBUG] - from org.springframework.validation.DataBinder in main
+				
+DataBinder requires binding of required fields [rootFile]
+
+2015-08-27 21:02:42,308 - [WARN] - from org.deeplearning4j.text.invertedindex.LuceneInvertedIndex in main
+				
+Changing index path to5618cf01-ff9d-49db-bd26-aacab62853e2
+
+2015-08-27 21:02:42,309 - [INFO] - from org.deeplearning4j.text.invertedindex.LuceneInvertedIndex in main
+				
+Creating directory word2vec-index
+
+2015-08-27 21:02:42,323 - [INFO] - from org.deeplearning4j.text.invertedindex.LuceneInvertedIndex in main
+				
+Creating new index writer
+
+2015-08-27 21:02:42,323 - [INFO] - from org.deeplearning4j.text.invertedindex.LuceneInvertedIndex in main
+				
+Creating directory word2vec-index
+
+2015-08-27 21:02:53,334 - [INFO] - from org.deeplearning4j.bagofwords.vectorizer.BaseTextVectorizer in main
+				
+latch count 790 with queued 790
+
+2015-08-27 21:02:53,334 - [INFO] - from org.deeplearning4j.bagofwords.vectorizer.BaseTextVectorizer in main
+				
+Invoking finish on index
+
+2015-08-27 21:02:53,615 - [INFO] - from org.deeplearning4j.models.word2vec.Word2Vec in main
+				
+Building binary tree
+
+2015-08-27 21:02:53,616 - [INFO] - from org.deeplearning4j.models.word2vec.Word2Vec in main
+				
+Constructing priority queue
+
+2015-08-27 21:02:53,617 - [INFO] - from org.deeplearning4j.models.word2vec.Word2Vec in main
+				
+Built tree
+
+2015-08-27 21:02:53,617 - [INFO] - from org.deeplearning4j.models.word2vec.Word2Vec in main
+				
+Resetting weights
+
+2015-08-27 21:02:53,669 - [INFO] - from org.deeplearning4j.models.word2vec.Word2Vec in main
+				
+Training word2vec multithreaded
+
+2015-08-27 21:02:53,672 - [DEBUG] - from org.springframework.validation.DataBinder in main
+				
+DataBinder requires binding of required fields [rootFile]
+
+2015-08-27 21:02:53,678 - [INFO] - from org.deeplearning4j.models.word2vec.Word2Vec in main
+				
+Processing sentences...
+
+2015-08-27 21:02:54,234 - [INFO] - from org.deeplearning4j.models.embeddings.loader.WordVectorSerializer in main
+				
+Wrote 147 with size of 100
+
+2015-08-27 21:05:26,381 - [DEBUG] - from org.springframework.validation.DataBinder in main
+				
+DataBinder requires binding of required fields [sentenceModelPath,sentenceTypeName]
+
+2015-08-27 21:05:26,494 - [DEBUG] - from org.springframework.validation.DataBinder in main
+				
+DataBinder requires binding of required fields [rootFile]
+
+2015-08-27 21:05:26,666 - [WARN] - from org.deeplearning4j.text.invertedindex.LuceneInvertedIndex in main
+				
+Changing index path tod81525a8-607b-4e7c-ba70-2da97302553c
+
+2015-08-27 21:05:26,666 - [INFO] - from org.deeplearning4j.text.invertedindex.LuceneInvertedIndex in main
+				
+Creating directory word2vec-index
+
+2015-08-27 21:05:26,679 - [INFO] - from org.deeplearning4j.text.invertedindex.LuceneInvertedIndex in main
+				
+Creating new index writer
+
+2015-08-27 21:05:26,680 - [INFO] - from org.deeplearning4j.text.invertedindex.LuceneInvertedIndex in main
+				
+Creating directory word2vec-index
+
+2015-08-27 21:05:37,619 - [INFO] - from org.deeplearning4j.bagofwords.vectorizer.BaseTextVectorizer in main
+				
+latch count 790 with queued 790
+
+2015-08-27 21:05:37,619 - [INFO] - from org.deeplearning4j.bagofwords.vectorizer.BaseTextVectorizer in main
+				
+Invoking finish on index
+
+2015-08-27 21:05:37,925 - [INFO] - from org.deeplearning4j.models.word2vec.Word2Vec in main
+				
+Building binary tree
+
+2015-08-27 21:05:37,926 - [INFO] - from org.deeplearning4j.models.word2vec.Word2Vec in main
+				
+Constructing priority queue
+
+2015-08-27 21:05:37,927 - [INFO] - from org.deeplearning4j.models.word2vec.Word2Vec in main
+				
+Built tree
+
+2015-08-27 21:05:37,927 - [INFO] - from org.deeplearning4j.models.word2vec.Word2Vec in main
+				
+Resetting weights
+
+2015-08-27 21:05:37,978 - [INFO] - from org.deeplearning4j.models.word2vec.Word2Vec in main
+				
+Training word2vec multithreaded
+
+2015-08-27 21:05:37,980 - [DEBUG] - from org.springframework.validation.DataBinder in main
+				
+DataBinder requires binding of required fields [rootFile]
+
+2015-08-27 21:05:37,987 - [INFO] - from org.deeplearning4j.models.word2vec.Word2Vec in main
+				
+Processing sentences...
+
+2015-08-27 21:05:38,477 - [INFO] - from org.deeplearning4j.models.embeddings.loader.WordVectorSerializer in main
+				
+Wrote 147 with size of 100
+
+2015-08-27 21:10:27,066 - [DEBUG] - from org.springframework.validation.DataBinder in main
+				
+DataBinder requires binding of required fields [sentenceModelPath,sentenceTypeName]
+
+2015-08-27 21:10:27,231 - [DEBUG] - from org.springframework.validation.DataBinder in main
+				
+DataBinder requires binding of required fields [rootFile]
+
+2015-08-27 21:10:27,459 - [WARN] - from org.deeplearning4j.text.invertedindex.LuceneInvertedIndex in main
+				
+Changing index path to0bb07390-af87-4b57-bcad-7429245118ba
+
+2015-08-27 21:10:27,459 - [INFO] - from org.deeplearning4j.text.invertedindex.LuceneInvertedIndex in main
+				
+Creating directory word2vec-index
+
+2015-08-27 21:10:27,479 - [INFO] - from org.deeplearning4j.text.invertedindex.LuceneInvertedIndex in main
+				
+Creating new index writer
+
+2015-08-27 21:10:27,479 - [INFO] - from org.deeplearning4j.text.invertedindex.LuceneInvertedIndex in main
+				
+Creating directory word2vec-index
+
+2015-08-27 21:10:38,437 - [INFO] - from org.deeplearning4j.bagofwords.vectorizer.BaseTextVectorizer in main
+				
+latch count 790 with queued 790
+
+2015-08-27 21:10:38,437 - [INFO] - from org.deeplearning4j.bagofwords.vectorizer.BaseTextVectorizer in main
+				
+Invoking finish on index
+
+2015-08-27 21:10:38,749 - [INFO] - from org.deeplearning4j.models.word2vec.Word2Vec in main
+				
+Building binary tree
+
+2015-08-27 21:10:38,749 - [INFO] - from org.deeplearning4j.models.word2vec.Word2Vec in main
+				
+Constructing priority queue
+
+2015-08-27 21:10:38,750 - [INFO] - from org.deeplearning4j.models.word2vec.Word2Vec in main
+				
+Built tree
+
+2015-08-27 21:10:38,750 - [INFO] - from org.deeplearning4j.models.word2vec.Word2Vec in main
+				
+Resetting weights
+
+2015-08-27 21:10:38,803 - [INFO] - from org.deeplearning4j.models.word2vec.Word2Vec in main
+				
+Training word2vec multithreaded
+
+2015-08-27 21:10:38,806 - [DEBUG] - from org.springframework.validation.DataBinder in main
+				
+DataBinder requires binding of required fields [rootFile]
+
+2015-08-27 21:10:38,812 - [INFO] - from org.deeplearning4j.models.word2vec.Word2Vec in main
+				
+Processing sentences...
+
+2015-08-27 21:10:39,375 - [INFO] - from org.deeplearning4j.models.embeddings.loader.WordVectorSerializer in main
+				
+Wrote 147 with size of 100
+
+2015-08-28 11:41:58,416 - [DEBUG] - from org.springframework.validation.DataBinder in main
+				
+DataBinder requires binding of required fields [sentenceModelPath,sentenceTypeName]
+
+2015-08-28 11:41:58,540 - [DEBUG] - from org.springframework.validation.DataBinder in main
+				
+DataBinder requires binding of required fields [rootFile]
+
+2015-08-28 11:41:58,779 - [WARN] - from org.deeplearning4j.text.invertedindex.LuceneInvertedIndex in main
+				
+Changing index path to8b2d4ef4-00d1-4379-9862-510b2a5aff16
+
+2015-08-28 11:41:58,779 - [INFO] - from org.deeplearning4j.text.invertedindex.LuceneInvertedIndex in main
+				
+Creating directory word2vec-index
+
+2015-08-28 11:41:58,797 - [INFO] - from org.deeplearning4j.text.invertedindex.LuceneInvertedIndex in main
+				
+Creating new index writer
+
+2015-08-28 11:41:58,797 - [INFO] - from org.deeplearning4j.text.invertedindex.LuceneInvertedIndex in main
+				
+Creating directory word2vec-index
+
+2015-08-28 11:42:09,962 - [INFO] - from org.deeplearning4j.bagofwords.vectorizer.BaseTextVectorizer in main
+				
+latch count 790 with queued 790
+
+2015-08-28 11:42:09,963 - [INFO] - from org.deeplearning4j.bagofwords.vectorizer.BaseTextVectorizer in main
+				
+Invoking finish on index
+
+2015-08-28 11:42:10,217 - [INFO] - from org.deeplearning4j.models.word2vec.Word2Vec in main
+				
+Building binary tree
+
+2015-08-28 11:42:10,217 - [INFO] - from org.deeplearning4j.models.word2vec.Word2Vec in main
+				
+Constructing priority queue
+
+2015-08-28 11:42:10,218 - [INFO] - from org.deeplearning4j.models.word2vec.Word2Vec in main
+				
+Built tree
+
+2015-08-28 11:42:10,218 - [INFO] - from org.deeplearning4j.models.word2vec.Word2Vec in main
+				
+Resetting weights
+
+2015-08-28 11:42:10,277 - [INFO] - from org.deeplearning4j.models.word2vec.Word2Vec in main
+				
+Training word2vec multithreaded
+
+2015-08-28 11:42:10,281 - [DEBUG] - from org.springframework.validation.DataBinder in main
+				
+DataBinder requires binding of required fields [rootFile]
+
+2015-08-28 11:42:10,290 - [INFO] - from org.deeplearning4j.models.word2vec.Word2Vec in main
+				
+Processing sentences...
+
+2015-08-28 11:42:10,927 - [INFO] - from org.deeplearning4j.models.embeddings.loader.WordVectorSerializer in main
+				
+Wrote 147 with size of 100
+
+2016-05-26 12:39:08,289 - [DEBUG] - from org.springframework.validation.DataBinder in main
+                
+DataBinder requires binding of required fields [sentenceModelPath,sentenceTypeName]
+
+2016-05-26 12:39:08,679 - [DEBUG] - from org.springframework.validation.DataBinder in main
+                
+DataBinder requires binding of required fields [rootFile]
+
+2016-05-26 12:39:10,297 - [WARN] - from org.deeplearning4j.text.invertedindex.LuceneInvertedIndex in main
+                
+Changing index path to4ba8c663-ea7d-438f-869c-1ec06749b939
+
+2016-05-26 12:39:10,297 - [INFO] - from org.deeplearning4j.text.invertedindex.LuceneInvertedIndex in main
+                
+Creating directory word2vec-index
+
+2016-05-26 12:39:10,416 - [INFO] - from org.deeplearning4j.text.invertedindex.LuceneInvertedIndex in main
+                
+Creating new index writer
+
+2016-05-26 12:39:10,417 - [INFO] - from org.deeplearning4j.text.invertedindex.LuceneInvertedIndex in main
+                
+Creating directory word2vec-index
+
+2016-05-26 12:39:23,363 - [INFO] - from org.deeplearning4j.bagofwords.vectorizer.BaseTextVectorizer in main
+                
+latch count 790 with queued 790
+
+2016-05-26 12:39:23,421 - [INFO] - from org.deeplearning4j.bagofwords.vectorizer.BaseTextVectorizer in main
+                
+Invoking finish on index
+
+2016-05-26 12:39:24,121 - [INFO] - from org.deeplearning4j.models.word2vec.Word2Vec in main
+                
+Building binary tree
+
+2016-05-26 12:39:24,121 - [INFO] - from org.deeplearning4j.models.word2vec.Word2Vec in main
+                
+Constructing priority queue
+
+2016-05-26 12:39:24,125 - [INFO] - from org.deeplearning4j.models.word2vec.Word2Vec in main
+                
+Built tree
+
+2016-05-26 12:39:24,125 - [INFO] - from org.deeplearning4j.models.word2vec.Word2Vec in main
+                
+Resetting weights
+
+2016-05-26 12:39:24,230 - [INFO] - from org.deeplearning4j.models.word2vec.Word2Vec in main
+                
+Training word2vec multithreaded
+
+2016-05-26 12:39:24,237 - [DEBUG] - from org.springframework.validation.DataBinder in main
+                
+DataBinder requires binding of required fields [rootFile]
+
+2016-05-26 12:39:24,251 - [INFO] - from org.deeplearning4j.models.word2vec.Word2Vec in main
+                
+Processing sentences...
+
+2016-06-20 17:04:56,711 - [DEBUG] - from org.springframework.validation.DataBinder in main
+				
+DataBinder requires binding of required fields [sentenceModelPath,sentenceTypeName]
+
+2016-06-20 17:04:57,322 - [DEBUG] - from org.springframework.validation.DataBinder in main
+				
+DataBinder requires binding of required fields [rootFile]
+
+2016-06-20 17:04:59,266 - [WARN] - from org.deeplearning4j.text.invertedindex.LuceneInvertedIndex in main
+				
+Changing index path to85837b0e-80e3-4fbc-a39e-d521cda96bb0
+
+2016-06-20 17:04:59,266 - [INFO] - from org.deeplearning4j.text.invertedindex.LuceneInvertedIndex in main
+				
+Creating directory word2vec-index
+
+2016-06-20 17:04:59,491 - [INFO] - from org.deeplearning4j.text.invertedindex.LuceneInvertedIndex in main
+				
+Creating new index writer
+
+2016-06-20 17:04:59,491 - [INFO] - from org.deeplearning4j.text.invertedindex.LuceneInvertedIndex in main
+				
+Creating directory word2vec-index
+
+2016-06-20 17:05:14,097 - [INFO] - from org.deeplearning4j.bagofwords.vectorizer.BaseTextVectorizer in main
+				
+latch count 790 with queued 790
+
+2016-06-20 17:05:14,097 - [INFO] - from org.deeplearning4j.bagofwords.vectorizer.BaseTextVectorizer in main
+				
+Invoking finish on index
+
+2016-06-20 17:05:14,584 - [INFO] - from org.deeplearning4j.models.word2vec.Word2Vec in main
+				
+Building binary tree
+
+2016-06-20 17:05:14,584 - [INFO] - from org.deeplearning4j.models.word2vec.Word2Vec in main
+				
+Constructing priority queue
+
+2016-06-20 17:05:14,586 - [INFO] - from org.deeplearning4j.models.word2vec.Word2Vec in main
+				
+Built tree
+
+2016-06-20 17:05:14,586 - [INFO] - from org.deeplearning4j.models.word2vec.Word2Vec in main
+				
+Resetting weights
+
+2016-06-20 17:05:14,656 - [INFO] - from org.deeplearning4j.models.word2vec.Word2Vec in main
+				
+Training word2vec multithreaded
+
+2016-06-20 17:05:14,660 - [DEBUG] - from org.springframework.validation.DataBinder in main
+				
+DataBinder requires binding of required fields [rootFile]
+
+2016-06-20 17:05:14,671 - [INFO] - from org.deeplearning4j.models.word2vec.Word2Vec in main
+				
+Processing sentences...
+
+2016-06-20 17:05:15,665 - [INFO] - from org.deeplearning4j.models.embeddings.loader.WordVectorSerializer in main
+				
+Wrote 147 with size of 100
+
+2016-06-20 17:06:04,830 - [DEBUG] - from org.springframework.validation.DataBinder in main
+				
+DataBinder requires binding of required fields [sentenceModelPath,sentenceTypeName]
+
+2016-06-20 17:06:05,215 - [DEBUG] - from org.springframework.validation.DataBinder in main
+				
+DataBinder requires binding of required fields [rootFile]
+
+2016-06-20 17:06:05,908 - [WARN] - from org.deeplearning4j.text.invertedindex.LuceneInvertedIndex in main
+				
+Changing index path tofd2ad251-c2ae-44f0-a403-cffc06a2bc6f
+
+2016-06-20 17:06:05,908 - [INFO] - from org.deeplearning4j.text.invertedindex.LuceneInvertedIndex in main
+				
+Creating directory word2vec-index
+
+2016-06-20 17:06:05,990 - [INFO] - from org.deeplearning4j.text.invertedindex.LuceneInvertedIndex in main
+				
+Creating new index writer
+
+2016-06-20 17:06:05,991 - [INFO] - from org.deeplearning4j.text.invertedindex.LuceneInvertedIndex in main
+				
+Creating directory word2vec-index
+
+2016-06-20 17:06:19,184 - [INFO] - from org.deeplearning4j.bagofwords.vectorizer.BaseTextVectorizer in main
+				
+latch count 790 with queued 790
+
+2016-06-20 17:06:19,185 - [INFO] - from org.deeplearning4j.bagofwords.vectorizer.BaseTextVectorizer in main
+				
+Invoking finish on index
+
+2016-06-20 17:06:19,916 - [INFO] - from org.deeplearning4j.models.word2vec.Word2Vec in main
+				
+Building binary tree
+
+2016-06-20 17:06:19,917 - [INFO] - from org.deeplearning4j.models.word2vec.Word2Vec in main
+				
+Constructing priority queue
+
+2016-06-20 17:06:19,918 - [INFO] - from org.deeplearning4j.models.word2vec.Word2Vec in main
+				
+Built tree
+
+2016-06-20 17:06:19,918 - [INFO] - from org.deeplearning4j.models.word2vec.Word2Vec in main
+				
+Resetting weights
+
+2016-06-20 17:06:20,010 - [INFO] - from org.deeplearning4j.models.word2vec.Word2Vec in main
+				
+Training word2vec multithreaded
+
+2016-06-20 17:06:20,014 - [DEBUG] - from org.springframework.validation.DataBinder in main
+				
+DataBinder requires binding of required fields [rootFile]
+
+2016-06-20 17:06:20,024 - [INFO] - from org.deeplearning4j.models.word2vec.Word2Vec in main
+				
+Processing sentences...
+
+2016-06-20 17:06:20,810 - [INFO] - from org.deeplearning4j.models.embeddings.loader.WordVectorSerializer in main
+				
+Wrote 147 with size of 100
+
+2016-06-20 17:08:37,032 - [DEBUG] - from org.springframework.validation.DataBinder in main
+				
+DataBinder requires binding of required fields [sentenceModelPath,sentenceTypeName]
+
+2016-06-20 17:08:37,371 - [DEBUG] - from org.springframework.validation.DataBinder in main
+				
+DataBinder requires binding of required fields [rootFile]
+
+2016-06-20 17:08:39,152 - [WARN] - from org.deeplearning4j.text.invertedindex.LuceneInvertedIndex in main
+				
+Changing index path to579f65d7-6dc9-40dc-a75a-df947a6bc940
+
+2016-06-20 17:08:39,153 - [INFO] - from org.deeplearning4j.text.invertedindex.LuceneInvertedIndex in main
+				
+Creating directory word2vec-index
+
+2016-06-20 17:08:39,311 - [INFO] - from org.deeplearning4j.text.invertedindex.LuceneInvertedIndex in main
+				
+Creating new index writer
+
+2016-06-20 17:08:39,311 - [INFO] - from org.deeplearning4j.text.invertedindex.LuceneInvertedIndex in main
+				
+Creating directory word2vec-index
+
+2016-06-20 17:08:54,408 - [INFO] - from org.deeplearning4j.bagofwords.vectorizer.BaseTextVectorizer in main
+				
+latch count 790 with queued 790
+
+2016-06-20 17:08:54,408 - [INFO] - from org.deeplearning4j.bagofwords.vectorizer.BaseTextVectorizer in main
+				
+Invoking finish on index
+
+2016-06-20 17:08:55,331 - [INFO] - from org.deeplearning4j.models.word2vec.Word2Vec in main
+				
+Building binary tree
+
+2016-06-20 17:08:55,331 - [INFO] - from org.deeplearning4j.models.word2vec.Word2Vec in main
+				
+Constructing priority queue
+
+2016-06-20 17:08:55,333 - [INFO] - from org.deeplearning4j.models.word2vec.Word2Vec in main
+				
+Built tree
+
+2016-06-20 17:08:55,333 - [INFO] - from org.deeplearning4j.models.word2vec.Word2Vec in main
+				
+Resetting weights
+
+2016-06-20 17:08:55,515 - [INFO] - from org.deeplearning4j.models.word2vec.Word2Vec in main
+				
+Training word2vec multithreaded
+
+2016-06-20 17:08:55,520 - [DEBUG] - from org.springframework.validation.DataBinder in main
+				
+DataBinder requires binding of required fields [rootFile]
+
+2016-06-20 17:08:55,533 - [INFO] - from org.deeplearning4j.models.word2vec.Word2Vec in main
+				
+Processing sentences...
+
+2016-06-20 17:08:56,651 - [INFO] - from org.deeplearning4j.models.embeddings.loader.WordVectorSerializer in main
+				
+Wrote 147 with size of 100
+
+2016-06-20 17:09:55,191 - [DEBUG] - from org.springframework.validation.DataBinder in main
+				
+DataBinder requires binding of required fields [sentenceModelPath,sentenceTypeName]
+
+2016-06-20 17:09:55,433 - [DEBUG] - from org.springframework.validation.DataBinder in main
+				
+DataBinder requires binding of required fields [rootFile]
+
+2016-06-20 17:09:56,020 - [WARN] - from org.deeplearning4j.text.invertedindex.LuceneInvertedIndex in main
+				
+Changing index path to31bb13be-abc8-496c-a4ba-1e40ff471175
+
+2016-06-20 17:09:56,020 - [INFO] - from org.deeplearning4j.text.invertedindex.LuceneInvertedIndex in main
+				
+Creating directory word2vec-index
+
+2016-06-20 17:09:56,080 - [INFO] - from org.deeplearning4j.text.invertedindex.LuceneInvertedIndex in main
+				
+Creating new index writer
+
+2016-06-20 17:09:56,081 - [INFO] - from org.deeplearning4j.text.invertedindex.LuceneInvertedIndex in main
+				
+Creating directory word2vec-index
+
+2016-06-20 17:10:09,968 - [INFO] - from org.deeplearning4j.bagofwords.vectorizer.BaseTextVectorizer in main
+				
+latch count 790 with queued 790
+
+2016-06-20 17:10:09,968 - [INFO] - from org.deeplearning4j.bagofwords.vectorizer.BaseTextVectorizer in main
+				
+Invoking finish on index
+
+2016-06-20 17:10:10,962 - [INFO] - from org.deeplearning4j.models.word2vec.Word2Vec in main
+				
+Building binary tree
+
+2016-06-20 17:10:10,962 - [INFO] - from org.deeplearning4j.models.word2vec.Word2Vec in main
+				
+Constructing priority queue
+
+2016-06-20 17:10:10,965 - [INFO] - from org.deeplearning4j.models.word2vec.Word2Vec in main
+				
+Built tree
+
+2016-06-20 17:10:10,965 - [INFO] - from org.deeplearning4j.models.word2vec.Word2Vec in main
+				
+Resetting weights
+
+2016-06-20 17:10:11,149 - [INFO] - from org.deeplearning4j.models.word2vec.Word2Vec in main
+				
+Training word2vec multithreaded
+
+2016-06-20 17:10:11,157 - [DEBUG] - from org.springframework.validation.DataBinder in main
+				
+DataBinder requires binding of required fields [rootFile]
+
+2016-06-20 17:10:11,180 - [INFO] - from org.deeplearning4j.models.word2vec.Word2Vec in main
+				
+Processing sentences...
+
+2016-06-20 17:10:12,238 - [INFO] - from org.deeplearning4j.models.embeddings.loader.WordVectorSerializer in main
+				
+Wrote 147 with size of 100
+

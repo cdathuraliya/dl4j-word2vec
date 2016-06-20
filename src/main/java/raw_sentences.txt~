@@ -1,0 +1,7 @@
+A class loader is an object that is responsible for loading classes. The class ClassLoader is an abstract class. Given the binary name of a class, a class loader should attempt to locate or generate data that constitutes a definition for the class. A typical strategy is to transform the name into a file name and then read a "class file" of that name from a file system.
+
+Every Class object contains a reference to the ClassLoader that defined it.
+
+Class objects for array classes are not created by class loaders, but are created automatically as required by the Java runtime. The class loader for an array class, as returned by Class.getClassLoader() is the same as the class loader for its element type; if the element type is a primitive type, then the array class has no class loader.
+
+Applications implement subclasses of ClassLoader in order to extend the manner in which the Java virtual machine dynamically loads classes.
